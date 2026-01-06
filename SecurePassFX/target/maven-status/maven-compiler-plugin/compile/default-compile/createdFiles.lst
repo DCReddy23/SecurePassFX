@@ -1,0 +1,10 @@
+com\securepass\Main.class
+com\securepass\util\ExportImportUtil$1.class
+com\securepass\security\EncryptionUtil.class
+com\securepass\util\ExportImportUtil.class
+com\securepass\gui\DashboardWindow.class
+com\securepass\storage\DBConnection.class
+com\securepass\gui\LoginWindow.class
+com\securepass\storage\CredentialDAO.class
+com\securepass\security\PasswordGenerator.class
+com\securepass\model\Credential.class
